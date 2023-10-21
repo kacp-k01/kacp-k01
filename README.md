@@ -1,6 +1,14 @@
-Hi, I'm a Geoinformatics graduate, who found “informatics” part more interesting and decided to explore this path instead. 
-Currently, student of Computer Science on Polish-Japanese Academy of Information Technology, going by myself ahead of the programme, taking extra courses, 
-focusing on the ones essential for becoming Java Software Engineere.
+# About me
+Java Software Engineer, who in span of 1 year managed to change profession, win a Talent Program in BEC Financial Technologies (beating several hundreds of other applicants), while simultaneously studying Computer Science on Polish-Japanese Academy of Information Technology due to hard work and self-discipline. 
+
+# Main area of interest
+Main interest are **event-streaming (Kafka, RabbitMQ)** and **DevOps**. I'm also explore possiblities of **data harvesting** and **cybersecurity** (last one will probably be my specialization on studies).
+
+# Education
+Computer Science will be my second degree, after Geography Bachelor of Science (University of Warsaw). 
+
+# Current Job
+Currently working as a developer in a BEC's Credit Risk department. As a person, I am well-organized, ambitious, and always eager to learn new technologies or skills.
 
 <!---
 kacp-k01/kacp-k01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
